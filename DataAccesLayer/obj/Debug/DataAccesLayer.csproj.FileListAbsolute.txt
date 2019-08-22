@@ -1,0 +1,14 @@
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\bin\Debug\EntityFramework.dll
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\bin\Debug\EntityFramework.xml
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\obj\Debug\DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\obj\Debug\DataAccesLayer.Migrations.first.resources
+C:\Users\ErdalKaymak\Documents\Visual Studio 2017\Projects\LibraryAutomation\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.GenerateResource.cache
